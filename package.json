@@ -1,8 +1,8 @@
 {
-  "name": "mailer",
+  "name": "newmailer",
   "description": "send emails from node.js to a smtp server, simple as cake",
-  "version": "0.6.7",
-  "author": "Marak Squires",
+  "version": "0.0.1",
+  "author": "yiyangest",
   "contributors" : [
     "Elijah Insua <tmpvar@gmail.com> (http://tmvpar.com/)",
     "Fedor Indutny <fedor.indutny@gmail.com> (http://indutny.com/)",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/node_mailer.git"
+    "url": "http://github.com/yiyangest/node_mailer.git"
   },
   "dependencies": {
     "nodemailer": "0.1.20",
